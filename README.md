@@ -1,4 +1,4 @@
-# d8badgemanagement
+# Drupal 8 User Points and Badge Management
 This Custom Drupal 8 module that handles user badges / points
 
 Key features are
