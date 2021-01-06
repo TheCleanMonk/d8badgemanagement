@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * User Points Module data.
+ */
+
+/**
+ * UserPointsTheme.
+ *
+ * @return array
+ *   Returns an array of userPoints data;
+ */
+function user_points_theme($existing, $type, $theme, $path) {
+  return [
+    'user_points' => [
+      'variables' => [
+        'user_points_data' => [],
+      ],
+    ],
+  ];
+}

@@ -1,0 +1,7 @@
+name: User points and badge data
+type: module
+description: 'Custom module for managing user points and badge data'
+version: 1.0
+core: 8.x
+package: 'Red Hat'
+core_version_requirement: ^8 || ^9

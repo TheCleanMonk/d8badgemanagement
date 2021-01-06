@@ -1,0 +1,7 @@
+services:
+  user_points.pointservice:
+    class: Drupal\user_points\Services\UserPointsService
+    arguments:
+      - '@entity_type.manager'
+  user_points.badgeservice:
+    class: Drupal\user_points\Services\UserBadgeService

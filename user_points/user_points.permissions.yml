@@ -1,0 +1,3 @@
+administer user_points types:
+  title: 'Administer user points and badges'
+  restrict access: true

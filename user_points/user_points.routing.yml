@@ -1,0 +1,6 @@
+user.user_points:
+    defaults:
+        _controller: 'Drupal\user_points\Controller\UserPointsController::userPointsContent'
+        _title: 'userPoints'
+    requirements:
+        _permission: 'access content'
